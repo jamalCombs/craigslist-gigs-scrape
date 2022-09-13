@@ -1,0 +1,11 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# OSX files
+.DS_Store
+
+# virtualenv
+.venv
+venv/
+ENV/
